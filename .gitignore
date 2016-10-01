@@ -11,6 +11,9 @@
 *.cb
 *.cb2
 
+##Sublime build
+tex2pdf.*
+
 ## Intermediate documents:
 *.dvi
 *-converted-to.*
